@@ -30,7 +30,7 @@ function clearScreen() {
 }
 
 function multiply() {
-  
+  var buttonMult = this.value
 }
 
 function divide() {
